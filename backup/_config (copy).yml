@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yfccb.github.com
-title: 理性批判时代
+url: http://yfccb.github.com/yfccb
+title: My Octopress Blog
 subtitle: A blogging framework for hackers.
-author: Shawn Cheng
+author: Your Name
 simple_search: http://google.com/search
-description: 尽管理性是感性的奴隶，我们仍然努力的在黑暗中点亮智慧理性的火把，照亮前行的路途。
+description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: 
+email:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
