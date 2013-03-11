@@ -5,7 +5,7 @@
 
 url: http://yfccb.github.com
 title: 理性批判时代
-subtitle: 日三省乎吾身
+subtitle: 
 author: Shawn Cheng
 simple_search: http://google.com/search
 description: 为了抵达从未去过的地方 你必须跋涉从未经历过的路途 而你唯一能学到的是你未曾学过的知识 而你拥有的是你未拥有过的事物 而你的所在也是迄未涉足的境界
@@ -98,3 +98,14 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
+
+#weibo
+#http://weibo.com/tool/weiboshow to get your uid and verifier
+weibo_uid: 1421054054 #你自己的微博id(在生成的代码中可以看见)
+weibo_verifier: 7c6fbf1f #你自己的verifier
+weibo_fansline: 0   # How many lines for the fan list
+weibo_show: true    # Whether you want your weibo content to be shown
+weibo_pic: true     # Whether you want the pictures in weibo to be shown
+weibo_skin: 10      # Please refer to http://weibo.com/tool/weiboshow
+weibo_share: true   # Whether show the sharing button
+
