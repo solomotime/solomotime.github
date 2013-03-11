@@ -8,7 +8,12 @@ title: 理性批判时代
 subtitle: 日三省乎吾身
 author: Shawn Cheng
 simple_search: http://google.com/search
-description: 尽管理性是感性的奴隶，我们仍然努力的在黑暗中点亮智慧理性的火把，照亮前行的路途。
+description: 
+为了抵达从未去过的地方
+你必须跋涉从未经历过的路途
+而你唯一能学到的是你未曾学过的知识
+而你拥有的是你未拥有过的事物
+而你的所在也是迄未涉足的境界
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -90,11 +95,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: yfccb
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

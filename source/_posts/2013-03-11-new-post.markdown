@@ -1,0 +1,11 @@
+---
+layout: post
+title: "开始org发布blog"
+date: 2013-03-11 11:25
+comments: true
+categories: test
+---
+
+<p>
+终于配置完毕了，先测试一下。
+</p>

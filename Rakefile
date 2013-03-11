@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 require "rubygems"
 require "bundler/setup"
 require "stringex"
@@ -22,11 +23,17 @@ blog_index_dir  = 'source'    # directory for your blog's index page (if you put
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
 stash_dir       = "_stash"    # directory to stash posts for speedy generation
 posts_dir       = "_posts"    # directory for blog files
+org_posts_dir   = "org_posts"
 themes_dir      = ".themes"   # directory for blog files
-new_post_ext    = "markdown"  # default new post file extension when using the new_post task
-new_page_ext    = "markdown"  # default new page file extension when using the new_page task
+# new_post_ext    = "markdown"  # default new post file extension when using the new_post task
+# new_page_ext    = "markdown"  # default new page file extension when using the new_page task
+new_post_ext    = "org"
+new_page_ext    = "org" 
 server_port     = "4000"      # port for preview server eg. localhost:4000
 
+#同时新增一个编辑器的变量
+#http://blog.xeonxu.info/blog/2012/09/05/you-hua-shi-yong-orgmodefa-bu-octopressde-fang-fa/
+editor ="/usr/local/bin/emacs" # Emacs wrapper
 
 desc "Initial setup for Octopress: copies the default theme into the path of Jekyll's generator. Rake install defaults to rake install[classic] to install a different theme run rake install[some_theme_name]"
 task :install, :theme do |t, args|
@@ -41,6 +48,7 @@ task :install, :theme do |t, args|
   mkdir_p "sass"
   cp_r "#{themes_dir}/#{theme}/sass/.", "sass"
   mkdir_p "#{source_dir}/#{posts_dir}"
+  mkdir_p "#{source_dir}/#{org_posts_dir}"
   mkdir_p public_dir
 end
 
@@ -99,12 +107,17 @@ task :new_post, :title do |t, args|
   end
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   mkdir_p "#{source_dir}/#{posts_dir}"
-  filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
-  if File.exist?(filename)
-    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
-  end
+   mkdir_p "#{source_dir}/#{org_posts_dir}"
+   args.with_defaults(:title => 'new-post')
+   title = args.title
+   filename = "#{source_dir}/#{org_posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+   if File.exist?(filename)
+     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+   end
+  
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
+    post.puts "#+BEGIN_HTML"
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
@@ -112,6 +125,10 @@ task :new_post, :title do |t, args|
     post.puts "comments: true"
     post.puts "categories: "
     post.puts "---"
+    post.puts "#+END_HTML"
+  end
+   if #{editor}
+    system "sleep 1; #{editor} #{filename}"
   end
 end
 
@@ -149,6 +166,9 @@ task :new_page, :filename do |t, args|
       page.puts "footer: true"
       page.puts "---"
     end
+     if #{editor}
+         system "sleep 1; #{editor} #{file}"
+     end
   else
     puts "Syntax error: #{args.filename} contains unsupported characters"
   end
