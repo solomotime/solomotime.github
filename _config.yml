@@ -1,10 +1,11 @@
+
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yfccb.github.com/yfccb
+url: http://yfccb.github.com
 title: 理性批判时代
-subtitle: A blogging framework for hackers.
+subtitle: 日三省乎吾身
 author: Shawn Cheng
 simple_search: http://google.com/search
 description: 尽管理性是感性的奴隶，我们仍然努力的在黑暗中点亮智慧理性的火把，照亮前行的路途。
