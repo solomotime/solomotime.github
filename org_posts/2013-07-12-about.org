@@ -1,0 +1,12 @@
+#+TITLE: about
+#+TYPE: blog
+#+DATE: 2013-07-12
+#+SETUPFILE: ~/sys/lib/org-sty/octopress.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: about
+#+JEKYLL_PUBLISHED: true
+
+专注IT互联网行业市场营销与公关领域十三载。擅长企业战略规划、整合营销、
+公关传播等领域。曾服务数十国内外知名品牌，亲历中概危机。曾服务包括：神
+州数码、东南融通、中国移动、星网锐捷等品牌。现就职一全球领先的软件企业，
+负责市场工作。

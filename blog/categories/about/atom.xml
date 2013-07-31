@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: about | YOURAN RUOMING]]></title>
+  <link href="http://solomo.github.com/blog/categories/about/atom.xml" rel="self"/>
+  <link href="http://solomo.github.com/"/>
+  <updated>2013-07-31T12:16:16+08:00</updated>
+  <id>http://solomo.github.com/</id>
+  <author>
+    <name><![CDATA[Shawn Cheng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[about]]></title>
+    <link href="http://solomo.github.com/blog/2013/07/12/about/"/>
+    <updated>2013-07-12T00:00:00+08:00</updated>
+    <id>http://solomo.github.com/blog/2013/07/12/about</id>
+    <content type="html"><![CDATA[<p>
+专注IT互联网行业市场营销与公关领域十三载。擅长企业战略规划、整合营销、
+公关传播等领域。曾服务数十国内外知名品牌，亲历中概危机。曾服务包括：神
+州数码、东南融通、中国移动、星网锐捷等品牌。现就职一全球领先的软件企业，
+负责市场工作。
+</p>
+
+]]></content>
+  </entry>
+  
+</feed>

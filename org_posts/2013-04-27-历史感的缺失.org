@@ -1,0 +1,14 @@
+#+TITLE: 历史感的缺失
+#+DATE: 2013-04-27
+#+TYPE: blog
+#+SETUPFILE: ~/octopress/org-sty/octopress.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 评论
+#+JEKYLL_PUBLISHED: true
+
+当历史可以被任意的改写的时候，善与恶的边界便消失了。
+
+当正义无法伸张，而为恶得不到惩处的时候，那么便是恶驱逐良善。@@html:<!-- more -->@@
+
+当历史和教科书被谎言所掩盖的时候，还指望能够教育出有责任感的下一代,不是
+很荒谬么?
