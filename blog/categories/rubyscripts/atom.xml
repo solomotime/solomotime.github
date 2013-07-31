@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: RubyScripts | YOURAN RUOMING]]></title>
-  <link href="http://solomo.github.com/blog/categories/rubyscripts/atom.xml" rel="self"/>
-  <link href="http://solomo.github.com/"/>
-  <updated>2013-07-31T12:16:16+08:00</updated>
-  <id>http://solomo.github.com/</id>
+  <link href="http://solomotime.github.com/blog/categories/rubyscripts/atom.xml" rel="self"/>
+  <link href="http://solomotime.github.com/"/>
+  <updated>2013-07-31T12:30:33+08:00</updated>
+  <id>http://solomotime.github.com/</id>
   <author>
     <name><![CDATA[Shawn Cheng]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Detecting similar and identical images using perseptual hashes]]></title>
-    <link href="http://solomo.github.com/blog/2012/07/30/organizing-photos-with-duplicate-and-similarity-checking/"/>
+    <link href="http://solomotime.github.com/blog/2012/07/30/organizing-photos-with-duplicate-and-similarity-checking/"/>
     <updated>2012-07-30T17:48:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2012/07/30/organizing-photos-with-duplicate-and-similarity-checking</id>
+    <id>http://solomotime.github.com/blog/2012/07/30/organizing-photos-with-duplicate-and-similarity-checking</id>
     <content type="html"><![CDATA[<p>Couple of my hobbies are travelling and photography. I love to take pictures and experiment with photography. Usually after my trips, I just copy the photos to either my iPad or couple of my external hard disks. After 10 years, I have over 200K photos distributed across several disks and machines. I had to find a way to organize these photos and create a workflow for future maintenance. In this post I want to address one of the issues I had to solve: <strong> finding duplicate images </strong>.</p>
 
 <p>First, I needed to find out what exactly is a duplicate image. Analysing my photos, I found couple of interesting things:</p>

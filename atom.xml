@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[YOURAN RUOMING]]></title>
-  <link href="http://solomo.github.com/atom.xml" rel="self"/>
-  <link href="http://solomo.github.com/"/>
-  <updated>2013-07-31T12:16:16+08:00</updated>
-  <id>http://solomo.github.com/</id>
+  <link href="http://solomotime.github.com/atom.xml" rel="self"/>
+  <link href="http://solomotime.github.com/"/>
+  <updated>2013-07-31T12:30:33+08:00</updated>
+  <id>http://solomotime.github.com/</id>
   <author>
     <name><![CDATA[Shawn Cheng]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[about]]></title>
-    <link href="http://solomo.github.com/blog/2013/07/12/about/"/>
+    <link href="http://solomotime.github.com/blog/2013/07/12/about/"/>
     <updated>2013-07-12T00:00:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2013/07/12/about</id>
+    <id>http://solomotime.github.com/blog/2013/07/12/about</id>
     <content type="html"><![CDATA[<p>
 专注IT互联网行业市场营销与公关领域十三载。擅长企业战略规划、整合营销、
 公关传播等领域。曾服务数十国内外知名品牌，亲历中概危机。曾服务包括：神
@@ -29,9 +29,9 @@
   
   <entry>
     <title type="html"><![CDATA[小宝真棒]]></title>
-    <link href="http://solomo.github.com/blog/2013/07/10/xiao-bao-zhen-bang/"/>
+    <link href="http://solomotime.github.com/blog/2013/07/10/xiao-bao-zhen-bang/"/>
     <updated>2013-07-10T00:00:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2013/07/10/xiao-bao-zhen-bang</id>
+    <id>http://solomotime.github.com/blog/2013/07/10/xiao-bao-zhen-bang</id>
     <content type="html"><![CDATA[<p>
 身为人父，看着小宝一天天的成长，心中无限的欢欣。
 </p>
@@ -86,9 +86,9 @@
   
   <entry>
     <title type="html"><![CDATA[北京的春天]]></title>
-    <link href="http://solomo.github.com/blog/2013/05/08/beijing-de-chuntian/"/>
+    <link href="http://solomotime.github.com/blog/2013/05/08/beijing-de-chuntian/"/>
     <updated>2013-05-08T00:00:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2013/05/08/beijing-de-chuntian</id>
+    <id>http://solomotime.github.com/blog/2013/05/08/beijing-de-chuntian</id>
     <content type="html"><![CDATA[<p>
 透过窗户望出去，天空是雾蒙蒙的。那是天空飘着雨。而在没有雨的时候，北京
 的天也是雾蒙蒙的。<!-- more -->
@@ -110,9 +110,9 @@
   
   <entry>
     <title type="html"><![CDATA[谁在安排我们幸福的生活？]]></title>
-    <link href="http://solomo.github.com/blog/2013/05/01/xing-fu-de-sheng-huo-shui-an-pai/"/>
+    <link href="http://solomotime.github.com/blog/2013/05/01/xing-fu-de-sheng-huo-shui-an-pai/"/>
     <updated>2013-05-01T00:00:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2013/05/01/xing-fu-de-sheng-huo-shui-an-pai</id>
+    <id>http://solomotime.github.com/blog/2013/05/01/xing-fu-de-sheng-huo-shui-an-pai</id>
     <content type="html"><![CDATA[<p>
 今天听到一首老歌，其中有一句话，谁在安排我们幸福的生活。不觉心中有种很
 奇怪的感觉。
@@ -138,9 +138,9 @@
   
   <entry>
     <title type="html"><![CDATA[历史感的缺失]]></title>
-    <link href="http://solomo.github.com/blog/2013/04/27/li-shi-gan-de-que-shi/"/>
+    <link href="http://solomotime.github.com/blog/2013/04/27/li-shi-gan-de-que-shi/"/>
     <updated>2013-04-27T00:00:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2013/04/27/li-shi-gan-de-que-shi</id>
+    <id>http://solomotime.github.com/blog/2013/04/27/li-shi-gan-de-que-shi</id>
     <content type="html"><![CDATA[<p>
 当历史可以被任意的改写的时候，善与恶的边界便消失了。
 </p>
@@ -158,9 +158,9 @@
   
   <entry>
     <title type="html"><![CDATA[心灵的震撼]]></title>
-    <link href="http://solomo.github.com/blog/2013/04/26/xin/"/>
+    <link href="http://solomotime.github.com/blog/2013/04/26/xin/"/>
     <updated>2013-04-26T00:00:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2013/04/26/xin</id>
+    <id>http://solomotime.github.com/blog/2013/04/26/xin</id>
     <content type="html"><![CDATA[<p>
 地震再次来袭，残墙断壁之间，在生与死之间，在光明与黑暗之间，我们的心被
 一再的牵动，被震撼。
@@ -198,9 +198,9 @@
   
   <entry>
     <title type="html"><![CDATA[杂感:生活在别处]]></title>
-    <link href="http://solomo.github.com/blog/2013/04/26/sheng-huo-zai-bie-chu/"/>
+    <link href="http://solomotime.github.com/blog/2013/04/26/sheng-huo-zai-bie-chu/"/>
     <updated>2013-04-26T00:00:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2013/04/26/sheng-huo-zai-bie-chu</id>
+    <id>http://solomotime.github.com/blog/2013/04/26/sheng-huo-zai-bie-chu</id>
     <content type="html"><![CDATA[<p>
 曾经，生活在别处，是诗人兰波的向往。
 </p>
@@ -269,9 +269,9 @@
   
   <entry>
     <title type="html"><![CDATA[Google Reader：免费午餐的终结]]></title>
-    <link href="http://solomo.github.com/blog/2013/04/26/mian-fei-wu-can-de-zhong-jie/"/>
+    <link href="http://solomotime.github.com/blog/2013/04/26/mian-fei-wu-can-de-zhong-jie/"/>
     <updated>2013-04-26T00:00:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2013/04/26/mian-fei-wu-can-de-zhong-jie</id>
+    <id>http://solomotime.github.com/blog/2013/04/26/mian-fei-wu-can-de-zhong-jie</id>
     <content type="html"><![CDATA[<p>
 尽管有万人签名，仍然组挡不住Google关闭Google reader的最终决定。这也告诉
 我们，市场上没有永远免费的午餐。尽管财大气粗行事天马星空如Google这样的
@@ -343,9 +343,9 @@ ipod、iphone到ipad。苹果成为一种符号、一种品位。这背后苹果
   
   <entry>
     <title type="html"><![CDATA[孩子的笑容]]></title>
-    <link href="http://solomo.github.com/blog/2013/04/26/hai-zi-de-xiao-rong/"/>
+    <link href="http://solomotime.github.com/blog/2013/04/26/hai-zi-de-xiao-rong/"/>
     <updated>2013-04-26T00:00:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2013/04/26/hai-zi-de-xiao-rong</id>
+    <id>http://solomotime.github.com/blog/2013/04/26/hai-zi-de-xiao-rong</id>
     <content type="html"><![CDATA[<p>
 人生是一场旅途，途中你会遇到你的爱人，会有新的生命，你们的孩子。孩子是
 上天赐给相的人的礼物。<!-- more -->
@@ -367,9 +367,9 @@ ipod、iphone到ipad。苹果成为一种符号、一种品位。这背后苹果
   
   <entry>
     <title type="html"><![CDATA[苹果营销神话揭密]]></title>
-    <link href="http://solomo.github.com/blog/2013/03/11/ping-guo-ying-xiao-shen-hua/"/>
+    <link href="http://solomotime.github.com/blog/2013/03/11/ping-guo-ying-xiao-shen-hua/"/>
     <updated>2013-03-11T12:28:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2013/03/11/ping-guo-ying-xiao-shen-hua</id>
+    <id>http://solomotime.github.com/blog/2013/03/11/ping-guo-ying-xiao-shen-hua</id>
     <content type="html"><![CDATA[<p>
 苹果是IT业界的奇迹，创造了一个几乎无可企及的巅峰。
 </p>
@@ -413,9 +413,9 @@ ipod、iphone到ipad。苹果成为一种符号、一种品位。这背后苹果
   
   <entry>
     <title type="html"><![CDATA[致小鱼儿]]></title>
-    <link href="http://solomo.github.com/blog/2012/10/10/zhi-xiao-yu-er/"/>
+    <link href="http://solomotime.github.com/blog/2012/10/10/zhi-xiao-yu-er/"/>
     <updated>2012-10-10T00:03:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2012/10/10/zhi-xiao-yu-er</id>
+    <id>http://solomotime.github.com/blog/2012/10/10/zhi-xiao-yu-er</id>
     <content type="html"><![CDATA[<p>
 今天是一个特殊的日子,今天是小鱼儿和我登记结婚十周年的日子.<br  />
 现在我们有了一个可爱的小宝宝,叫悠然,小名小宝.<br  />
@@ -454,9 +454,9 @@ ipod、iphone到ipad。苹果成为一种符号、一种品位。这背后苹果
   
   <entry>
     <title type="html"><![CDATA[Detecting similar and identical images using perseptual hashes]]></title>
-    <link href="http://solomo.github.com/blog/2012/07/30/organizing-photos-with-duplicate-and-similarity-checking/"/>
+    <link href="http://solomotime.github.com/blog/2012/07/30/organizing-photos-with-duplicate-and-similarity-checking/"/>
     <updated>2012-07-30T17:48:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2012/07/30/organizing-photos-with-duplicate-and-similarity-checking</id>
+    <id>http://solomotime.github.com/blog/2012/07/30/organizing-photos-with-duplicate-and-similarity-checking</id>
     <content type="html"><![CDATA[<p>Couple of my hobbies are travelling and photography. I love to take pictures and experiment with photography. Usually after my trips, I just copy the photos to either my iPad or couple of my external hard disks. After 10 years, I have over 200K photos distributed across several disks and machines. I had to find a way to organize these photos and create a workflow for future maintenance. In this post I want to address one of the issues I had to solve: <strong> finding duplicate images </strong>.</p>
 
 <p>First, I needed to find out what exactly is a duplicate image. Analysing my photos, I found couple of interesting things:</p>
@@ -575,19 +575,19 @@ ipod、iphone到ipad。苹果成为一种符号、一种品位。这背后苹果
 
 <div style = "text-align:left">
  <div style="display: inline-block; margin-right: 5px">
-  <span class='caption-wrapper'><img src="http://solomo.github.com/images/ImageSimilaritySamples/Original.jpg" title="Original Image" ><span class='caption-text'>Original Image</span></span>
+  <span class='caption-wrapper'><img src="http://solomotime.github.com/images/ImageSimilaritySamples/Original.jpg" title="Original Image" ><span class='caption-text'>Original Image</span></span>
  </div>
  <div style="display: inline-block">
-  <span class='caption-wrapper'><img src="http://solomo.github.com/images/ImageSimilaritySamples/Duplicate.jpg" title="Duplicate Image" ><span class='caption-text'>Duplicate Image</span></span>
+  <span class='caption-wrapper'><img src="http://solomotime.github.com/images/ImageSimilaritySamples/Duplicate.jpg" title="Duplicate Image" ><span class='caption-text'>Duplicate Image</span></span>
  </div>
  <div style="display: inline-block">
-  <span class='caption-wrapper'><img src="http://solomo.github.com/images/ImageSimilaritySamples/Resized.jpg" title="Resized Image" ><span class='caption-text'>Resized Image</span></span>
+  <span class='caption-wrapper'><img src="http://solomotime.github.com/images/ImageSimilaritySamples/Resized.jpg" title="Resized Image" ><span class='caption-text'>Resized Image</span></span>
  </div>
  <div style="display: inline-block">
-  <span class='caption-wrapper'><img src="http://solomo.github.com/images/ImageSimilaritySamples/NegativeExposure.jpg" title="Exposure Compensated Image" ><span class='caption-text'>Exposure Compensated Image</span></span>
+  <span class='caption-wrapper'><img src="http://solomotime.github.com/images/ImageSimilaritySamples/NegativeExposure.jpg" title="Exposure Compensated Image" ><span class='caption-text'>Exposure Compensated Image</span></span>
  </div>
  <div style="display: inline-block">
-  <span class='caption-wrapper'><img src="http://solomo.github.com/images/ImageSimilaritySamples/Cropped.jpg" title="Cropped Image" ><span class='caption-text'>Cropped Image</span></span>
+  <span class='caption-wrapper'><img src="http://solomotime.github.com/images/ImageSimilaritySamples/Cropped.jpg" title="Cropped Image" ><span class='caption-text'>Cropped Image</span></span>
  </div>
 </div>
 
@@ -682,9 +682,9 @@ ipod、iphone到ipad。苹果成为一种符号、一种品位。这背后苹果
   
   <entry>
     <title type="html"><![CDATA[From bits to waves - The inner workings of an ethernet controller]]></title>
-    <link href="http://solomo.github.com/blog/2012/05/09/from-bits-to-waves-the-inner-workings-of-an-ethernet-controller/"/>
+    <link href="http://solomotime.github.com/blog/2012/05/09/from-bits-to-waves-the-inner-workings-of-an-ethernet-controller/"/>
     <updated>2012-05-09T06:57:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2012/05/09/from-bits-to-waves-the-inner-workings-of-an-ethernet-controller</id>
+    <id>http://solomotime.github.com/blog/2012/05/09/from-bits-to-waves-the-inner-workings-of-an-ethernet-controller</id>
     <content type="html"><![CDATA[<p>About 10 years ago, I started hacking the Linux kernel. My interest was the TCP/IP stack and specifically the workings
 of an Ethernet controller and its Linux driver. I picked one of the most widely used Ethernet controllers at that time,
 the <a href="http://www.intel.com/design/network/products/lan/controllers/82559.htm" title="Intel 82559 10/100 Fast Ethernet Controller">Intel 82559 10/100 Fast Ethernet Controller</a> and one of its open-source drivers, the eepro100. My original aim was to
@@ -698,7 +698,7 @@ converts the packets sent by the driver to signals transmitted over physical wir
 <p>The 82559 is an Intel ethernet chipset. It supports 10/100 Mbps full duplex data communication over a pair of wires.
 This is a high level block diagram of the 82559.</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/82559-Block-Diagram.png" title="Block Diagram of 82559" ><span class='caption-text'>Block Diagram of 82559</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/82559-Block-Diagram.png" title="Block Diagram of 82559" ><span class='caption-text'>Block Diagram of 82559</span></span></p>
 
 <p>The most important subsystems of 82559 are:</p>
 
@@ -793,7 +793,7 @@ address space. Every other device-specific feature, such as interrupt reporting,
 requirements they have. In order to facilitate this process, all PCI devices, including 82559, must implement a base set
 of configuration registers as defined by the PCe standard registers defined by 82559 is shown in the figure below.</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/82559ConfigSpace.jpg" width="82559" title="Config Space" ><span class='caption-text'>Config Space</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/82559ConfigSpace.jpg" width="82559" title="Config Space" ><span class='caption-text'>Config Space</span></span></p>
 
 <p>The BIOS reads the Vendor ID, Device ID and Class registers in order to detect the device and its type. 82559 being an
 Intel device, returns a hard-coded 8086H for Device ID.</p>
@@ -805,7 +805,7 @@ of memory and/or IO space the device requires. Ese Address Register (BAR) is 32 
 per device. 82559 defines 3 types of BARs, the Control/Status Registers (CSR), Flash, and Expansion ROM as shown in
 figure above.</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/BAR.jpg" title="Base Address Register (BAR)" ><span class='caption-text'>Base Address Register (BAR)</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/BAR.jpg" title="Base Address Register (BAR)" ><span class='caption-text'>Base Address Register (BAR)</span></span></p>
 
 <p>Bit zero in all base registers is read only and is used to determine whether the register maps into memory (0) or I/O
 space (1).ach bove shows the layout of a BAR for memory mapping.</p>
@@ -829,7 +829,7 @@ system. This leaves Linux kernel with little to do other than remap that configu
 bridges) and pci_bus for every bus it finds. These structures are linked together into a tree that mimics the actual PCI
 topology.</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/PCITree.jpg" title="PCI Tree" ><span class='caption-text'>PCI Tree</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/PCITree.jpg" title="PCI Tree" ><span class='caption-text'>PCI Tree</span></span></p>
 
 <p>At this stage, the BIOS has recognized the 82559 and configured its PCI configuration space assigning it unique memory
 and IO space and the Linux kernel has created a pci_dev data structure defining 82559.</p>
@@ -1560,7 +1560,7 @@ stored by the board manufacturer in a non-volatile form, such as in the EEPROM o
 
 <p>82559 expects the EEPROM format to be as shown below.</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/82559EEPROMFormat.jpg" width="82559" title="EEPROM Format" ><span class='caption-text'>EEPROM Format</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/82559EEPROMFormat.jpg" width="82559" title="EEPROM Format" ><span class='caption-text'>EEPROM Format</span></span></p>
 
 <p>The 82559 automatically reads five words (0H, 1H, 2H, AH, and DH) from the EEPROM during bootup. The MAC address is
 extracted from 0H, 1H &amp; 2H. The rest of the EEPROM map contains device options like type of connector, the device
@@ -1949,7 +1949,7 @@ a region accessible by the CPU. See the section PCI Kernel Initialization), whil
 <p>Command Block List (CBL) is a linked list of commands to be executed by 82559. Receive Frame Area (RFA) is a linked list
 of data structures that holds the received packets (frames).</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/82559SharedMemoryArchitecture_good.jpg" width="82559" title="Shared Memory Architecture" ><span class='caption-text'>Shared Memory Architecture</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/82559SharedMemoryArchitecture_good.jpg" width="82559" title="Shared Memory Architecture" ><span class='caption-text'>Shared Memory Architecture</span></span></p>
 
 <h4>Controlling 82559 through CSR</h4>
 
@@ -1972,7 +1972,7 @@ frame is received the RU updates the SCB with the RU status and interrupts the C
 <p>Transmit or configure commands issued by CPU are wrapped inside what are called Command Blocks (CB). These command
 blocks are chained together to form the CBL.</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/82559ActionCommand.jpg" title="Action Command" ><span class='caption-text'>Action Command</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/82559ActionCommand.jpg" title="Action Command" ><span class='caption-text'>Action Command</span></span></p>
 
 <p>Action commands are categorized into two types:</p>
 
@@ -1985,7 +1985,7 @@ and a data buffer, or a linked list of buffer descriptors and buffers (as shown 
 </ul>
 
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/82559DataBuffer.jpg" title="Data buffer" ><span class='caption-text'>Data buffer</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/82559DataBuffer.jpg" title="Data buffer" ><span class='caption-text'>Data buffer</span></span></p>
 
 <p>When eepro100 is ready to transmit a packet, it must create this Tx command block and send it to 82559. This Tx Command
 block is a structure called TxFD (Transmit Frame Descriptor).</p>
@@ -2058,12 +2058,12 @@ stores them in the Receive Frame Area (RFA).</p>
 
 <p>The RFA contains Receive Frame Descriptors, Receive Buffer Descriptors, and Receive Buffers (see figure below).</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/82559FlexibleReceiveStructure1.jpg" title="Flexible Receive Structure" ><span class='caption-text'>Flexible Receive Structure</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/82559FlexibleReceiveStructure1.jpg" title="Flexible Receive Structure" ><span class='caption-text'>Flexible Receive Structure</span></span></p>
 
 <p>The individual Receive Frame Descriptors make up a Receive Descriptor List (RDL) used by the 82559 to store the
 destination and source addresses, the length field, and the status of each frame received.</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/82559ReceiveFrameDescriptor.jpg" title="Receive Frame Descriptor" ><span class='caption-text'>Receive Frame Descriptor</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/82559ReceiveFrameDescriptor.jpg" title="Receive Frame Descriptor" ><span class='caption-text'>Receive Frame Descriptor</span></span></p>
 
 <p>eepro100 representation of the Receive Frame Descriptor (RxFD):</p>
 
@@ -2275,7 +2275,7 @@ Tx ring.</p>
 
 <p>The final ethernet frame sent over the wire is:</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/EthernetFrameFormat.jpg" title="Ethernet Frame Format" ><span class='caption-text'>Ethernet Frame Format</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/EthernetFrameFormat.jpg" title="Ethernet Frame Format" ><span class='caption-text'>Ethernet Frame Format</span></span></p>
 
 <p>82559 automatically generates the preamble (alternating 1s and 0s) and start frame delimiter, fetches the destination
 address and length field from the Transmit command, inserts its unique MAC address (that it fetched from the external
@@ -2302,7 +2302,7 @@ the wire:</p>
 </ul>
 
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/100BaseTxPHYModule.jpg" title="PHY Module" ><span class='caption-text'>PHY Module</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/100BaseTxPHYModule.jpg" title="PHY Module" ><span class='caption-text'>PHY Module</span></span></p>
 
 <h4>Scrambling/Descrambling</h4>
 
@@ -2325,7 +2325,7 @@ advantage that the maximum fundamental frequency of MLT-3 is one-half that of NR
 the spectral energy is below 40MHz versus 70MHz for NRZI. Thus we can achieves the same data rate as NRZI, but do not
 require a wideband transmission medium. The work of the encoder/decoder is to convert between NRZI and MLT-3.</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/BitsOnWire.jpg" title="Bits on Wire" ><span class='caption-text'>Bits on Wire</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/BitsOnWire.jpg" title="Bits on Wire" ><span class='caption-text'>Bits on Wire</span></span></p>
 
 <p>Finally, the MLT-3 encoded data is transmitted over the wire. It is important to isolate the the PHY from the CAT-5
 Ethernet cable for load balancing and also feedback. This is done by using specialized Ethernet magnetics with each side
@@ -2349,7 +2349,7 @@ RFA contains Receive Frame Descriptors, Receive Buffer Descriptors, and Data Buf
 Receive Frame Descriptors make up a Receive Descriptor List (RDL) used by the 82559 to store the destination and source
 addresses, the length field, and the status of each frame received.</p>
 
-<p><span class='caption-wrapper'><img src="http://solomo.github.com/images/from-bits-to-waves/82559FlexibleReceiveStructure.jpg" title="Flexible Receive Structure" ><span class='caption-text'>Flexible Receive Structure</span></span></p>
+<p><span class='caption-wrapper'><img src="http://solomotime.github.com/images/from-bits-to-waves/82559FlexibleReceiveStructure.jpg" title="Flexible Receive Structure" ><span class='caption-text'>Flexible Receive Structure</span></span></p>
 
 <p>82559 checks each passing frame for an address match. The 82559 will recognize its own unique address, one or more
 multicast addresses, or the broadcast address. If a match is found, 82559 stores the destination address, source
@@ -2627,9 +2627,9 @@ target="_blank">eepro100.c Linux Device Driver</a></li>
   
   <entry>
     <title type="html"><![CDATA[Hacking Lucene - The Index format]]></title>
-    <link href="http://solomo.github.com/blog/2011/10/01/hacking-lucene-the-index-format/"/>
+    <link href="http://solomotime.github.com/blog/2011/10/01/hacking-lucene-the-index-format/"/>
     <updated>2011-10-01T00:20:54+08:00</updated>
-    <id>http://solomo.github.com/blog/2011/10/01/hacking-lucene-the-index-format</id>
+    <id>http://solomotime.github.com/blog/2011/10/01/hacking-lucene-the-index-format</id>
     <content type="html"><![CDATA[<p>Lucene is high-performance, scalable, full-featured, open-source text search engine written in Java. Since I am a search engineer by profession, I wanted to learn more about Lucene and its internals.</p>
 
 <p>This article is about the index format of the 3.4 Lucene. Specifically the Lucene inverted index.</p>
@@ -2791,9 +2791,9 @@ target="_blank">eepro100.c Linux Device Driver</a></li>
   
   <entry>
     <title type="html"><![CDATA[How big of a haystack do you need to hide?]]></title>
-    <link href="http://solomo.github.com/blog/2011/08/04/how-big-of-a-haystack-do-you-need-to-hide/"/>
+    <link href="http://solomotime.github.com/blog/2011/08/04/how-big-of-a-haystack-do-you-need-to-hide/"/>
     <updated>2011-08-04T18:13:17+08:00</updated>
-    <id>http://solomo.github.com/blog/2011/08/04/how-big-of-a-haystack-do-you-need-to-hide</id>
+    <id>http://solomotime.github.com/blog/2011/08/04/how-big-of-a-haystack-do-you-need-to-hide</id>
     <content type="html"><![CDATA[<p>Every fact you learn about a person reduces the &#8220;entropy&#8221; of their identity. For e.g.</p>
 
 <ul>
@@ -2840,9 +2840,9 @@ Knowing that I live in Moscow: ΔS = -ln (10524400/6,625,000,000) = 9.30 bits</p
   
   <entry>
     <title type="html"><![CDATA[God's number is 20, mine is 67.]]></title>
-    <link href="http://solomo.github.com/blog/2011/06/16/gods-number-is-20-mine-is-67-2/"/>
+    <link href="http://solomotime.github.com/blog/2011/06/16/gods-number-is-20-mine-is-67-2/"/>
     <updated>2011-06-16T17:01:44+08:00</updated>
-    <id>http://solomo.github.com/blog/2011/06/16/gods-number-is-20-mine-is-67-2</id>
+    <id>http://solomotime.github.com/blog/2011/06/16/gods-number-is-20-mine-is-67-2</id>
     <content type="html"><![CDATA[<blockquote><p>Without using magic or trickery, God would need utmost <a href="http://cube20.org/">20</a> moves to solve any scrambled 3 x 3 x 3 Rubik&#8217;s cube. The best I can do is in 67 moves.</p></blockquote>
 
 <p>I got my first Rubik&#8217;s cube when I was 11 years old. After years of trying to solve it, my greatest accomplishment was solving 2 adjacent faces. I would give up trying to solve the entire cube after fiddling with it for hours. I was still proud of what I could solve though; every one else I knew could not even solve 1 face.</p>
@@ -2857,7 +2857,7 @@ Knowing that I live in Moscow: ΔS = -ln (10524400/6,625,000,000) = 9.30 bits</p
 
 <p>Over the past couple of months, my interest in the cube was piqued again while I was reading an article on <a href="http://www.math.harvard.edu/~jjchen/docs/Group%20Theory%20and%20the%20Rubik%27s%20Cube.pdf">Group theory and Rubik&#8217;s cube</a>. I finally decided to understand the cube and figure out how to solve it. I was not interested in finding the fastest or most optimal solution, but a simple solution that I could remember.</p>
 
-<p><img src="http://solomo.github.com/io/wp-content/themes/cleanr/images/Rubiks/Sides.jpg" alt="Names for six sides of cube, Up (U), Down (D), Right (R), Left (L), Front (F), Back (B) " /></p>
+<p><img src="http://solomotime.github.com/io/wp-content/themes/cleanr/images/Rubiks/Sides.jpg" alt="Names for six sides of cube, Up (U), Down (D), Right (R), Left (L), Front (F), Back (B) " /></p>
 
 <p>This figure shows the labels we will be using when referring to the sides of the cube. We&#8217;ll use the one-letter abbreviations shown (U, D, F, B, L, R) in the algorithm below.</p>
 
@@ -2971,9 +2971,9 @@ If you find a corner piece that&#8217;s already in the top layer but the wrong s
   
   <entry>
     <title type="html"><![CDATA[黑天鹅之祭:在连续性断裂边缘的随想]]></title>
-    <link href="http://solomo.github.com/blog/2009/12/29/hei-tian-e-zhi-ji/"/>
+    <link href="http://solomotime.github.com/blog/2009/12/29/hei-tian-e-zhi-ji/"/>
     <updated>2009-12-29T00:00:00+08:00</updated>
-    <id>http://solomo.github.com/blog/2009/12/29/hei-tian-e-zhi-ji</id>
+    <id>http://solomotime.github.com/blog/2009/12/29/hei-tian-e-zhi-ji</id>
     <content type="html"><![CDATA[<p>
 当连续性的世界突然坍塌的时候，构建在其上的运作和认知世界面前突然出现一道深不可测的深渊，深渊之中升腾起一只黑天鹅，在深壑边缘翩然起舞。而原本建立在连续性的假设基础之上的世界，却陷入了一片混乱。<!-- more -->
 </p>

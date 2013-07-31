@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Hobby | YOURAN RUOMING]]></title>
-  <link href="http://solomo.github.com/blog/categories/hobby/atom.xml" rel="self"/>
-  <link href="http://solomo.github.com/"/>
-  <updated>2013-07-31T12:16:16+08:00</updated>
-  <id>http://solomo.github.com/</id>
+  <link href="http://solomotime.github.com/blog/categories/hobby/atom.xml" rel="self"/>
+  <link href="http://solomotime.github.com/"/>
+  <updated>2013-07-31T12:30:33+08:00</updated>
+  <id>http://solomotime.github.com/</id>
   <author>
     <name><![CDATA[Shawn Cheng]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[God's number is 20, mine is 67.]]></title>
-    <link href="http://solomo.github.com/blog/2011/06/16/gods-number-is-20-mine-is-67-2/"/>
+    <link href="http://solomotime.github.com/blog/2011/06/16/gods-number-is-20-mine-is-67-2/"/>
     <updated>2011-06-16T17:01:44+08:00</updated>
-    <id>http://solomo.github.com/blog/2011/06/16/gods-number-is-20-mine-is-67-2</id>
+    <id>http://solomotime.github.com/blog/2011/06/16/gods-number-is-20-mine-is-67-2</id>
     <content type="html"><![CDATA[<blockquote><p>Without using magic or trickery, God would need utmost <a href="http://cube20.org/">20</a> moves to solve any scrambled 3 x 3 x 3 Rubik's cube. The best I can do is in 67 moves.</p></blockquote>
 
 <p>I got my first Rubik's cube when I was 11 years old. After years of trying to solve it, my greatest accomplishment was solving 2 adjacent faces. I would give up trying to solve the entire cube after fiddling with it for hours. I was still proud of what I could solve though; every one else I knew could not even solve 1 face.</p>
